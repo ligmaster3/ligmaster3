@@ -6,7 +6,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"><a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Boostrap" style="width: 50px; ,height: 150px;"></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/375px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="40px" height="40px"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg> </a> 
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40px" height="40px"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" height="50px"/> </a> 
 </p>
