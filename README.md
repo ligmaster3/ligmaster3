@@ -2,9 +2,9 @@
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOBvDo0bu2g10cKvmxQFCvHOtWLnXDZRHtOT4g96j72kTaSxU0KX4IPiOHBTXjqMsK42s1s46gjsdhQMV5BVrjzVVUiz441Arn3jsmmeRbQheeKeyDZHbgnMB_Wq9zc4PLM7BwCw8McX9qAwPZPdPpaDhVrq0PYWTBA5zodvrTW7v3vY4fUeYndkPDA/s1200/lenguaje-programacion-videojuegos-populares.webp" alt="dev">
 ## Links
 
-<p align="center">
- <a href="enier.arauz@unachi.ac.pa"></a>
-</p>
+## 🌐 Socials⚡:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chzfabian) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabianhrr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chzfabian/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Chzfabian_) 
+
 <!--
 **ligmaster3/ligmaster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 <--
