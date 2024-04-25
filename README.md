@@ -3,7 +3,7 @@
 ## Links
 
 <p align="center">
- <a href="enier.arauz@unachi.ac.pa"></a><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email">
+ <a href="enier.arauz@unachi.ac.pa"></a>
 </p>
 <!--
 **ligmaster3/ligmaster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
