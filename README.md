@@ -4,18 +4,90 @@
 <h2 align="">🔮『◇Enier Arauz◇』🪄</h2>
 <h3 align="center">A passionate frontend developer from Panamá 🇵🇦</h3>
 
+    <!-- Título principal alineado al centro -->
+<h1 align="center">Hi 👋, I'm UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
+    <!-- Subtítulo alineado al centro -->
+<h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
+
+    <!-- Sección para conectar con la universidad -->
+<h3 align="left">Connect with me:</h3>
+
+    <!-- Sección de lenguajes y herramientas -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="center"><a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Boostrap" style="width: 50px; ,height: 150px;"></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg> </a> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40px" height="40px"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50px" height="50px"/> </a> 
-</p>
+
+    <!-- Lenguajes -->
+<h4 align="left">Languages:</h4>
+    <p align="left">
+        <!-- C++ -->
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                alt="cplusplus" width="40" height="40" />
+        </a>
+        <!-- CSS3 -->
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3" width="40" height="40" />
+        </a>
+        <!-- HTML5 -->
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="40" height="40" />
+        </a>
+        <!-- JavaScript -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                alt="javascript" width="40" height="40" />
+        </a>
+        <!-- Python -->
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                alt="python" width="40" height="40" />
+        </a>
+        <!-- PHP -->
+        <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+                alt="php" width="40" height="40" />
+        </a>
+    </p>
+
+    <!-- Frameworks -->
+<h4 align="left">Frameworks:</h4>
+    <p align="left">
+        <!-- Bootstrap -->
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                alt="bootstrap" width="40" height="40" />
+        </a>
+    </p>
+
+    <!-- Skills -->
+<h4 align="left">Skills:</h4>
+    <p align="left">
+        <!-- Git -->
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+        </a>
+        <!-- GitHub -->
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" width="40" height="40" />
+        </a>
+        <!-- MariaDB -->
+        <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+        </a>
+        <!-- MySQL -->
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" />
+        </a>
+
 
 ## 🌐 Social ✨️
+<p align="center">
+        <!-- Aquí se pueden agregar enlaces para conectarse, como redes sociales o correo electrónico -->
+  Enier Arauz enier.arauz@unachi.ac.pa
+    </p>
 
-Enier Arauz enier.arauz@unachi.ac.pa
 
 **ligmaster3/ligmaster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
