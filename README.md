@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Panamá 🇵🇦</h3>
 
 
-<h1 align="center">Hi 👋, I'm UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
+<h1 align="center"> I'M STUDENT UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
 
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
 
