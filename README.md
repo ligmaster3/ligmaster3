@@ -1,7 +1,7 @@
 ### Hi hola a todos 👋
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXOBvDo0bu2g10cKvmxQFCvHOtWLnXDZRHtOT4g96j72kTaSxU0KX4IPiOHBTXjqMsK42s1s46gjsdhQMV5BVrjzVVUiz441Arn3jsmmeRbQheeKeyDZHbgnMB_Wq9zc4PLM7BwCw8McX9qAwPZPdPpaDhVrq0PYWTBA5zodvrTW7v3vY4fUeYndkPDA/s1200/lenguaje-programacion-videojuegos-populares.webp" alt="dev">
 <hr>
-<h2 align="">🔮『◇Enier Arauz◇』🪄</h2>
+<h2 align="center">🔮『◇Enier Arauz◇』🪄</h2>
 <h3 align="center">A passionate frontend developer from Panamá 🇵🇦</h3>
 
 
