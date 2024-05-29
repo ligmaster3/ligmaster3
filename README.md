@@ -13,10 +13,10 @@
 <h3 align="left">Connect with me:</h3>
 
  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
   
-<h4 align="left">Languages:</h4>
+<h4 align="center">Languages:</h4>
     <p align="center">
         <!-- C++ -->
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -51,8 +51,8 @@
     </p>
 
    
-<h4 align="left">Frameworks:</h4>
-    <p align="left">
+<h4 align="center">Frameworks:</h4>
+    <p align="center">
         <!-- Bootstrap -->
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -61,8 +61,8 @@
     </p>
 
    
-<h4 align="left">Skills:</h4>
-    <p align="left">
+<h4 align="center">Skills:</h4>
+    <p align="center">
         <!-- Git -->
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
