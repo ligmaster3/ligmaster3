@@ -85,7 +85,9 @@
 <h4 align="center"> 🌐 Social ✨️</h4>
 <p align="center">
         <!-- Aquí se pueden agregar enlaces para conectarse, como redes sociales o correo electrónico -->
-  Enier Arauz enier.arauz@unachi.ac.pa
+  Enier Arauz 
+<a href="enier.arauz@unachi.ac.pa"> 
+</a>
     </p>
 
 
