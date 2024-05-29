@@ -15,7 +15,7 @@
  
 <h3 align="left">Languages and Tools:</h3>
 
-    <!-- Lenguajes -->
+  
 <h4 align="left">Languages:</h4>
     <p align="center">
         <!-- C++ -->
@@ -50,7 +50,7 @@
         </a>
     </p>
 
-    <!-- Frameworks -->
+   
 <h4 align="left">Frameworks:</h4>
     <p align="left">
         <!-- Bootstrap -->
@@ -60,7 +60,7 @@
         </a>
     </p>
 
-    <!-- Skills -->
+   
 <h4 align="left">Skills:</h4>
     <p align="left">
         <!-- Git -->
