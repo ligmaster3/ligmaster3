@@ -9,8 +9,14 @@
 
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
 <p align="center">
-##My Skills
-  (https://skillicons.dev/iconsi=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
+<h3 align="center">My Skills</h3>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="card-item">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                        alt="C++" width="40" height="40">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer" class="card-item">
+                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+                        alt="PHP" width="40" height="40">
+
 </p>
 
  
