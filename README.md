@@ -8,10 +8,10 @@
 <h1 align="center"> I'M STUDENT UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
 
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
-
+<p align="center">
  ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,astro,tailwind,vitest,sass,figma,bootstrap,wordpress,vscode,git,github,mui&perline=8)
 <h3 align="left">Connect with me:</h3>
-
+</p>
  
 <h3 align="center">Languages and Tools:</h3>
 
