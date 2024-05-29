@@ -4,20 +4,20 @@
 <h2 align="">🔮『◇Enier Arauz◇』🪄</h2>
 <h3 align="center">A passionate frontend developer from Panamá 🇵🇦</h3>
 
-    <!-- Título principal alineado al centro -->
+
 <h1 align="center">Hi 👋, I'm UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
-    <!-- Subtítulo alineado al centro -->
+
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
 
-    <!-- Sección para conectar con la universidad -->
+ 
 <h3 align="left">Connect with me:</h3>
 
-    <!-- Sección de lenguajes y herramientas -->
+ 
 <h3 align="left">Languages and Tools:</h3>
 
     <!-- Lenguajes -->
 <h4 align="left">Languages:</h4>
-    <p align="left">
+    <p align="center">
         <!-- C++ -->
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
@@ -56,7 +56,7 @@
         <!-- Bootstrap -->
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" />
+                alt="bootstrap" width="40" height="40" / style="color:#6f42c1;">
         </a>
     </p>
 
