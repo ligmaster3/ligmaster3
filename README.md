@@ -44,7 +44,7 @@
         </a>
     </p>
 
-  <div align="row">
+  <div style="display: flex; justify-content: space-between;">
 ## 📊 GitHub Stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical) 
