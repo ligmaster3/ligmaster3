@@ -76,11 +76,11 @@
             <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" 
                  alt="github" width="40" height="40" />
         </a>
-        <!-- MariaDB -->
+        <!-- MariaDB 
         <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" 
                  alt="mariadb" width="40" height="40" />
-        </a>
+        </a>-->
         <!-- MySQL -->
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
