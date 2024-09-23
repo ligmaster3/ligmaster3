@@ -50,7 +50,6 @@
 <h4 align="center">Frameworks:</h4>
     <div align="center">
         <!-- Bootstrap -->
-       <img width="42" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
     </div>
 
