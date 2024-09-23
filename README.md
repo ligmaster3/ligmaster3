@@ -91,9 +91,9 @@
 
 Aquí tienes algunos de mis proyectos más interesantes:
 
-- [**Proyecto 1**](https://github.com/usuario/proyecto1): Un proyecto que desarrollé para [propósito].
-- [**Proyecto 2**](https://github.com/usuario/proyecto2): Una aplicación [descripción breve].
-- [**Proyecto 3**](https://github.com/usuario/proyecto3): Un [tipo de proyecto], donde implementé [tecnología usada].
+- [**Proyecto 1**](https://github.com/ligmaster3/Proyecto-P.git): Un proyecto que desarrollé para dar a conocer el turismo en Chiriqui.
+- [**Proyecto 2**](https://github.com/ligmaster3/-sitio-web.github.io.git): Una aplicación o sitio de compra de libros.
+- [**Proyecto 3**](https://github.com/ligmaster3/turismo-baruense-v2.git): Un tipo de proyecto turistico.
 
 Estoy siempre abierto/a a aprender más y colaborar con otros desarrolladores. Si tienes algún proyecto interesante en mente o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
