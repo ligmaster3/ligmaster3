@@ -11,6 +11,10 @@
  
 <h3 align="center">Algunas de las tecnologías con las que trabajo incluyen:</h3>
 
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
   
 <h4 align="center">Languages:</h4>
     <p align="center">
