@@ -11,6 +11,10 @@
 ### 📊 GitHub Stats
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical)
+### 📚 Lenguajes más usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ligmaster3&layout=compact&theme=radical)
+
 
   
 <h4 align="center">Languages:</h4>
@@ -100,6 +104,8 @@ Aquí tienes algunos de mis proyectos más interesantes:
 
 Estoy siempre abierto/a a aprender más y colaborar con otros desarrolladores. Si tienes algún proyecto interesante en mente o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
 
+### 🏆 Nivel de contribuciones
+![Tu Nivel](https://img.shields.io/badge/Nivel-A-pink?style=for-the-badge)
 
 **ligmaster3/ligmaster3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
