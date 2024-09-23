@@ -45,13 +45,12 @@
     </p>
 
   <div align="row">
-   ### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical) 
 ### 📚 Lenguajes más usados
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ligmaster3&layout=compact&theme=radical)
-
 
   </div>
 <h4 align="center">Frameworks:</h4>
