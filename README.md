@@ -44,12 +44,12 @@
         </a>
     </p>
 
- ## 📊 GitHub Stats & 
+ ## 📊 GitHub Stats & 📚 Lenguajes más usados
 
 <div style="display: flex; justify-content: space-between;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical" alt="Tus estadísticas de GitHub" width="48%" />
-📚 Lenguajes más usados
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ligmaster3&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 
 </div>
