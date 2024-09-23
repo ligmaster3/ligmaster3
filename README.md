@@ -8,6 +8,9 @@
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
  
 <h3 align="center">Algunas de las tecnologías con las que trabajo incluyen:</h3>
+### 📊 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical)
 
   
 <h4 align="center">Languages:</h4>
