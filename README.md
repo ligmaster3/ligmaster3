@@ -8,13 +8,6 @@
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
  
 <h3 align="center">Algunas de las tecnologías con las que trabajo incluyen:</h3>
-### 📊 GitHub Stats
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical)
-### 📚 Lenguajes más usados
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ligmaster3&layout=compact&theme=radical)
-
 
   
 <h4 align="center">Languages:</h4>
@@ -51,7 +44,16 @@
         </a>
     </p>
 
-   
+  <div align="row">
+   ### 📊 GitHub Stats
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ligmaster3&show_icons=true&theme=radical)
+### 📚 Lenguajes más usados
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ligmaster3&layout=compact&theme=radical)
+
+
+  </div>
 <h4 align="center">Frameworks:</h4>
     <div align="center">
         <!-- Bootstrap -->
