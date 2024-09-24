@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Panamá 🇵🇦</h3>
 
 
-<h1 align="center"> I'M STUDENT UNIVERSIDAD AUTÓNOMA DE CHIRIQUÍ</h1>
+<h1 align="center"> I am studying at UNACHI</h1>
 <h2 align="center">😄¡Hola! 👋 Soy『◇Enier Arauz◇』👾🎮</h2>
 <h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
  
