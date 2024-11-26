@@ -105,7 +105,7 @@ Aquí tienes algunos de mis proyectos más interesantes:
 - [**Proyecto 2**](https://github.com/ligmaster3/-sitio-web.github.io.git): Una aplicación o sitio de compra de libros.
 - [**Proyecto 3**](https://github.com/ligmaster3/turismo-baruense-v2.git): Un tipo de proyecto turistico.
 
-Estoy siempre abierto/a a aprender más y colaborar con otros desarrolladores. Si tienes algún proyecto interesante en mente o simplemente quieres charlar sobre tecnología, no dudes en contactarme.
+Estoy siempre abierto/a a aprender más y colaborar con otros desarrolladores.
 
 ### 🏆 Nivel de contribuciones
 ![Tu Nivel](https://img.shields.io/badge/Nivel-A-pink?style=for-the-badge)
