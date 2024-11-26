@@ -5,7 +5,6 @@
 
 <h1 align="center"> I am studying at UNACHI</h1>
 <h2 align="center">😄¡Hola! 👋 Soy『◇Enier Arauz◇』👾🎮</h2>
-<h3 align="center">TÉCNICO EN PROGRAMACIÓN EMPRESARIAL</h3>
  
 <h3 align="center">Algunas de las tecnologías con las que trabajo incluyen:</h3>
 
