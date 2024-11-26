@@ -101,7 +101,7 @@
 
 Aquí tienes algunos de mis proyectos más interesantes:
 
-- [**Proyecto 1**](https://github.com/ligmaster3/Proyecto-P.git): Un proyecto que desarrollé para dar a conocer el turismo en Chiriqui.
+- [**Proyecto 1**](https://github.com/ligmaster3/tienda-online.git): Un proyecto que desarrollamos de una tienda en linea mediante php.
 - [**Proyecto 2**](https://github.com/ligmaster3/-sitio-web.github.io.git): Una aplicación o sitio de compra de libros.
 - [**Proyecto 3**](https://github.com/ligmaster3/turismo-baruense-v2.git): Un tipo de proyecto turistico.
 
